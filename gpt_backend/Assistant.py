@@ -34,3 +34,4 @@ class Assistant:
         messages = [user_message, self.system_message]
         response = self.get_completion_from_messages(messages)
         print(response)
+        return response
