@@ -15,7 +15,8 @@ class Assistant:
         self.workout_intensity = workout_intensity
         self.delimiter = "####"
         system_msgContent = f" you are a {self.sport} trainer focusing on {self.user_experience} athletes," \
-                              f" give training schedule for an athlete with bmi {self.bmi} for {self.workout_intensity} per week"
+                              f" give training schedule for an athlete with bmi {self.bmi} for {self.workout_intensity} per week." \
+                              f" Only provide the schedule in JSON format."
         self.system_message = {'role': 'system', 'content': system_msgContent}
 
 
@@ -33,5 +34,5 @@ class Assistant:
         user_message = {'role': 'user', 'content': user_msg}
         messages = [user_message, self.system_message]
         response = self.get_completion_from_messages(messages)
-        print(response)
+        #print(response)
         return response
