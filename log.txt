@@ -1157,3 +1157,216 @@ Note: This is just a sample workout schedule and should be customized based on t
 }
 
 
+18/06/2023 21:14:43
+ 
+['gpt-3.5-turbo', 'swimming', 'professional', 80, 180, 3]
+{
+  "athlete": {
+    "weight": 80,
+    "height": 180
+  },
+  "training_schedule": {
+    "day_1": {
+      "warm_up": "500m freestyle",
+      "main_set": [
+        {
+          "distance": "4 x 200m",
+          "stroke": "freestyle",
+          "pace": "1:45/100m"
+        },
+        {
+          "distance": "4 x 100m",
+          "stroke": "backstroke",
+          "pace": "1:50/100m"
+        },
+        {
+          "distance": "4 x 50m",
+          "stroke": "butterfly",
+          "pace": "2:00/100m"
+        }
+      ],
+      "cool_down": "200m easy freestyle"
+    },
+    "day_2": {
+      "warm_up": "400m freestyle",
+      "main_set": [
+        {
+          "distance": "8 x 100m",
+          "stroke": "freestyle",
+          "pace": "1:40/100m"
+        },
+        {
+          "distance": "4 x 50m",
+          "stroke": "breaststroke",
+          "pace": "2:00/100m"
+        },
+        {
+          "distance": "4 x 25m",
+          "stroke": "freestyle sprint",
+          "pace": "0:50/25m"
+        }
+      ],
+      "cool_down": "200m easy freestyle"
+    },
+    "day_3": {
+      "warm_up": "300m freestyle",
+      "main_set": [
+        {
+          "distance": "10 x 50m",
+          "stroke": "freestyle",
+          "pace": "0:45/50m"
+        },
+        {
+          "distance": "5 x 100m",
+          "stroke": "butterfly",
+          "pace": "1:50/100m"
+        },
+        {
+          "distance": "5 x 50m",
+          "stroke": "backstroke",
+          "pace": "1:00/50m"
+        }
+      ],
+      "cool_down": "200m easy freestyle"
+    }
+  }
+}
+
+
+18/06/2023 21:24:47
+ 
+['gpt-3.5-turbo', 'swimming', 'professional', 80, 180, 3]
+{
+  "athlete": {
+    "weight": 80,
+    "height": 180
+  },
+  "training_schedule": {
+    "day_1": {
+      "warm_up": "500m freestyle",
+      "main_set": [
+        {
+          "distance": "4 x 200m",
+          "stroke": "freestyle",
+          "pace": "1:45/100m"
+        },
+        {
+          "distance": "4 x 100m",
+          "stroke": "backstroke",
+          "pace": "1:50/100m"
+        },
+        {
+          "distance": "4 x 50m",
+          "stroke": "butterfly",
+          "pace": "2:00/100m"
+        }
+      ],
+      "cool_down": "200m easy freestyle"
+    },
+    "day_2": {
+      "warm_up": "400m freestyle",
+      "main_set": [
+        {
+          "distance": "8 x 100m",
+          "stroke": "freestyle",
+          "pace": "1:40/100m"
+        },
+        {
+          "distance": "4 x 50m",
+          "stroke": "breaststroke",
+          "pace": "2:10/100m"
+        },
+        {
+          "distance": "4 x 25m",
+          "stroke": "freestyle sprint",
+          "pace": "0:50/25m"
+        }
+      ],
+      "cool_down": "200m easy freestyle"
+    },
+    "day_3": {
+      "warm_up": "300m freestyle",
+      "main_set": [
+        {
+          "distance": "10 x 50m",
+          "stroke": "freestyle",
+          "pace": "0:45/50m"
+        },
+        {
+          "distance": "5 x 100m",
+          "stroke": "butterfly",
+          "pace": "1:50/100m"
+        },
+        {
+          "distance": "5 x 50m",
+          "stroke": "backstroke",
+          "pace": "1:00/50m"
+        }
+      ],
+      "cool_down": "200m easy freestyle"
+    }
+  }
+}
+
+
+18/06/2023 21:30:47
+ 
+['gpt-3.5-turbo', 'swimming', 'professional', 80, 180, 3]
+{
+  "athlete": {
+    "weight": 80,
+    "height": 180
+  },
+  "training_schedule": {
+    "Monday": {
+      "warm_up": "500m freestyle",
+      "main_set": [
+        {
+          "distance": "4 x 200m",
+          "stroke": "freestyle",
+          "pace": "1:45/100m"
+        },
+        {
+          "distance": "4 x 100m",
+          "stroke": "backstroke",
+          "pace": "1:50/100m"
+        }
+      ],
+      "cool_down": "200m easy swim"
+    },
+    "Wednesday": {
+      "warm_up": "400m freestyle",
+      "main_set": [
+        {
+          "distance": "8 x 50m",
+          "stroke": "butterfly",
+          "pace": "0:50/100m"
+        },
+        {
+          "distance": "4 x 100m",
+          "stroke": "breaststroke",
+          "pace": "1:55/100m"
+        }
+      ],
+      "cool_down": "200m easy swim"
+    },
+    "Friday": {
+      "warm_up": "300m freestyle",
+      "main_set": [
+        {
+          "distance": "10 x 100m",
+          "stroke": "freestyle",
+          "pace": "1:30/100m"
+        },
+        {
+          "distance": "4 x 50m",
+          "stroke": "backstroke",
+          "pace": "0:55/100m"
+        }
+      ],
+      "cool_down": "200m easy swim"
+    }
+  }
+}
+
+

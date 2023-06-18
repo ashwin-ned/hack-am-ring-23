@@ -1,0 +1,62 @@
+{
+    "athlete": {
+        "weight": 80,
+        "height": 180
+    },
+    "training_schedule": {
+        "Monday": {
+            "warm_up": "500m freestyle",
+            "main_set": [
+                {
+                    "distance": "4 x 200m",
+                    "stroke": "freestyle",
+                    "pace": "1:45/100m"
+                },
+                {
+                    "distance": "4 x 100m",
+                    "stroke": "backstroke",
+                    "pace": "1:50/100m"
+                }
+            ],
+            "cool_down": "200m easy swim"
+        },
+        "Wednesday": {
+            "warm_up": "400m freestyle",
+            "main_set": [
+                {
+                    "distance": "8 x 50m",
+                    "stroke": "butterfly",
+                    "pace": "0:50/100m"
+                },
+                {
+                    "distance": "4 x 100m",
+                    "stroke": "breaststroke",
+                    "pace": "1:55/100m"
+                }
+            ],
+            "cool_down": "200m easy swim",
+            "tracking_data": {
+                "set": 2,
+                "rep": 10,
+                "task": "400m freestyle",
+                "check": true
+            }
+        },
+        "Friday": {
+            "warm_up": "300m freestyle",
+            "main_set": [
+                {
+                    "distance": "10 x 100m",
+                    "stroke": "freestyle",
+                    "pace": "1:30/100m"
+                },
+                {
+                    "distance": "4 x 50m",
+                    "stroke": "backstroke",
+                    "pace": "0:55/100m"
+                }
+            ],
+            "cool_down": "200m easy swim"
+        }
+    }
+}
