@@ -652,3 +652,75 @@ Note: This is a general workout schedule and may need to be adjusted based on in
 }
 
 
+18/06/2023 18:06:30
+ I am a taekwondo professional who stopped training for two years. Give me a workout schedule to get back into shape in a month's time period. in a JSON format.
+['gpt-3.5-turbo', 'taekwondo', 'professional', 21, 3]
+{
+  "trainingSchedule": [
+    {
+      "day": "Monday",
+      "workout": [
+        {
+          "exercise": "Warm-up",
+          "duration": "10 minutes"
+        },
+        {
+          "exercise": "Cardio",
+          "duration": "30 minutes"
+        },
+        {
+          "exercise": "Strength Training",
+          "duration": "30 minutes"
+        },
+        {
+          "exercise": "Taekwondo Techniques",
+          "duration": "30 minutes"
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "workout": [
+        {
+          "exercise": "Warm-up",
+          "duration": "10 minutes"
+        },
+        {
+          "exercise": "Cardio",
+          "duration": "30 minutes"
+        },
+        {
+          "exercise": "Strength Training",
+          "duration": "30 minutes"
+        },
+        {
+          "exercise": "Taekwondo Sparring",
+          "duration": "30 minutes"
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "workout": [
+        {
+          "exercise": "Warm-up",
+          "duration": "10 minutes"
+        },
+        {
+          "exercise": "Cardio",
+          "duration": "30 minutes"
+        },
+        {
+          "exercise": "Strength Training",
+          "duration": "30 minutes"
+        },
+        {
+          "exercise": "Taekwondo Forms",
+          "duration": "30 minutes"
+        }
+      ]
+    }
+  ]
+}
+
+
