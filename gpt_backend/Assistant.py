@@ -6,17 +6,18 @@ _ = load_dotenv(find_dotenv()) # Read local .env file
 openai.api_key  = os.environ["OPEN_API_KEY"]
 
 class Assistant:
-    def __init__(self, sport, user_experience, bmi, workout_intensity,  model="gpt-3.5-turbo"):
+    def __init__(self, userData,  model="gpt-3.5-turbo"):
 
         self.model = model
-        self.sport = sport
-        self.user_experience = user_experience
-        self.bmi = bmi
-        self.workout_intensity = workout_intensity
+        self.sport = userData.sport
+        self.user_experience = userData.user_experience
+        self.weight = userData.weight
+        self.height = userData.height
+        self.workout_intensity = userData.workout_intensity
         self.delimiter = "####"
         system_msgContent = f" you are a {self.sport} trainer focusing on {self.user_experience} athletes," \
-                              f" give training schedule for an athlete with bmi {self.bmi} for {self.workout_intensity} per week." \
-                              f" Only provide the schedule in JSON format."
+                              f" give training schedule for an athlete with weight {self.weight} and height {self.height} for {self.workout_intensity} per week." \
+                              f" Only provide the schedule in JSON format and no extra notes."
         self.system_message = {'role': 'system', 'content': system_msgContent}
 
 
@@ -34,5 +35,4 @@ class Assistant:
         user_message = {'role': 'user', 'content': user_msg}
         messages = [user_message, self.system_message]
         response = self.get_completion_from_messages(messages)
-        #print(response)
         return response

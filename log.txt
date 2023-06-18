@@ -724,3 +724,436 @@ Note: This is a general workout schedule and may need to be adjusted based on in
 }
 
 
+18/06/2023 19:41:00
+ I am a taekwondo professional who stopped training for two years. Give me a workout schedule to get back into shape in a month's time period.
+['gpt-3.5-turbo', 'taekwondo', 'professional', 70, 186, 3]
+{
+  "Monday": {
+    "Morning": {
+      "Activity": "Strength Training",
+      "Exercises": [
+        "Squats",
+        "Deadlifts",
+        "Bench Press",
+        "Pull-ups",
+        "Planks"
+      ],
+      "Sets": 4,
+      "Reps": 8
+    },
+    "Evening": {
+      "Activity": "Taekwondo Training",
+      "Exercises": [
+        "Kicks",
+        "Punches",
+        "Blocks",
+        "Sparring"
+      ],
+      "Duration": "1.5 hours"
+    }
+  },
+  "Wednesday": {
+    "Morning": {
+      "Activity": "Cardiovascular Training",
+      "Exercises": [
+        "Running",
+        "Cycling",
+        "Rowing",
+        "Jumping Jacks"
+      ],
+      "Duration": "30 minutes"
+    },
+    "Evening": {
+      "Activity": "Taekwondo Training",
+      "Exercises": [
+        "Kicks",
+        "Punches",
+        "Blocks",
+        "Sparring"
+      ],
+      "Duration": "1.5 hours"
+    }
+  },
+  "Friday": {
+    "Morning": {
+      "Activity": "Plyometric Training",
+      "Exercises": [
+        "Box Jumps",
+        "Jump Squats",
+        "Lateral Jumps",
+        "Burpees"
+      ],
+      "Sets": 4,
+      "Reps": 10
+    },
+    "Evening": {
+      "Activity": "Taekwondo Training",
+      "Exercises": [
+        "Kicks",
+        "Punches",
+        "Blocks",
+        "Sparring"
+      ],
+      "Duration": "1.5 hours"
+    }
+  }
+}
+
+Note: This is just a sample workout schedule and should be customized based on the individual's fitness level and goals. It is recommended to consult with a professional trainer before starting any new workout routine.
+
+
+18/06/2023 19:43:59
+ I am a taekwondo professional who stopped training for two years. Give me a workout schedule to get back into shape in a month's time period.
+['gpt-3.5-turbo', 'taekwondo', 'professional', 70, 186, 3]
+{
+  "Monday": {
+    "Morning": {
+      "Activity": "Strength Training",
+      "Exercises": [
+        "Squats",
+        "Deadlifts",
+        "Bench Press",
+        "Pull-ups",
+        "Planks"
+      ],
+      "Sets": 4,
+      "Reps": 8
+    },
+    "Evening": {
+      "Activity": "Taekwondo Training",
+      "Exercises": [
+        "Kicking Drills",
+        "Punching Drills",
+        "Sparring",
+        "Forms"
+      ],
+      "Duration": "2 hours"
+    }
+  },
+  "Wednesday": {
+    "Morning": {
+      "Activity": "Cardiovascular Training",
+      "Exercises": [
+        "Running",
+        "Cycling",
+        "Rowing",
+        "Jumping Jacks"
+      ],
+      "Duration": "30 minutes"
+    },
+    "Evening": {
+      "Activity": "Taekwondo Training",
+      "Exercises": [
+        "Kicking Drills",
+        "Punching Drills",
+        "Sparring",
+        "Forms"
+      ],
+      "Duration": "2 hours"
+    }
+  },
+  "Friday": {
+    "Morning": {
+      "Activity": "Plyometric Training",
+      "Exercises": [
+        "Box Jumps",
+        "Jump Squats",
+        "Lateral Jumps",
+        "Burpees"
+      ],
+      "Sets": 4,
+      "Reps": 8
+    },
+    "Evening": {
+      "Activity": "Taekwondo Training",
+      "Exercises": [
+        "Kicking Drills",
+        "Punching Drills",
+        "Sparring",
+        "Forms"
+      ],
+      "Duration": "2 hours"
+    }
+  }
+}
+
+Note: This is just a sample workout schedule and should be customized based on the individual's fitness level, goals, and any medical conditions. It is recommended to consult with a certified personal trainer or physician before starting any new exercise program.
+
+
+18/06/2023 19:46:11
+ I am a taekwondo professional who stopped training for two years. Give me a workout schedule to get back into shape in a month's time period.
+['gpt-3.5-turbo', 'taekwondo', 'professional', 70, 186, 3]
+{
+  "Monday": {
+    "Warm-up": "10 minutes of jogging",
+    "Strength Training": "3 sets of 10 reps of squats, deadlifts, and bench press",
+    "Cardio": "20 minutes of HIIT on the treadmill",
+    "Cool-down": "5 minutes of stretching"
+  },
+  "Wednesday": {
+    "Warm-up": "10 minutes of jumping jacks and lunges",
+    "Agility Training": "3 sets of 10 reps of ladder drills and cone drills",
+    "Cardio": "30 minutes of steady-state running",
+    "Cool-down": "5 minutes of stretching"
+  },
+  "Friday": {
+    "Warm-up": "10 minutes of jump rope",
+    "Plyometric Training": "3 sets of 10 reps of box jumps, jump squats, and burpees",
+    "Cardio": "20 minutes of sprints",
+    "Cool-down": "5 minutes of stretching"
+  }
+}
+
+
+18/06/2023 19:53:39
+ I am a taekwondo professional who stopped training for two years. Give me a workout schedule to get back into shape in a month's time period.
+['gpt-3.5-turbo', 'Swimming', 'beginner', 80, 170, 3]
+{
+  "trainingSchedule": [
+    {
+      "day": "Monday",
+      "workout": [
+        {
+          "exercise": "Warm-up",
+          "sets": 1,
+          "reps": 10
+        },
+        {
+          "exercise": "Freestyle swimming",
+          "sets": 4,
+          "reps": 50
+        },
+        {
+          "exercise": "Backstroke",
+          "sets": 4,
+          "reps": 50
+        },
+        {
+          "exercise": "Cool-down",
+          "sets": 1,
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "workout": [
+        {
+          "exercise": "Warm-up",
+          "sets": 1,
+          "reps": 10
+        },
+        {
+          "exercise": "Breaststroke",
+          "sets": 4,
+          "reps": 50
+        },
+        {
+          "exercise": "Butterfly stroke",
+          "sets": 4,
+          "reps": 50
+        },
+        {
+          "exercise": "Cool-down",
+          "sets": 1,
+          "reps": 10
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "workout": [
+        {
+          "exercise": "Warm-up",
+          "sets": 1,
+          "reps": 10
+        },
+        {
+          "exercise": "Freestyle swimming",
+          "sets": 4,
+          "reps": 100
+        },
+        {
+          "exercise": "Backstroke",
+          "sets": 4,
+          "reps": 100
+        },
+        {
+          "exercise": "Breaststroke",
+          "sets": 4,
+          "reps": 100
+        },
+        {
+          "exercise": "Butterfly stroke",
+          "sets": 4,
+          "reps": 100
+        },
+        {
+          "exercise": "Cool-down",
+          "sets": 1,
+          "reps": 10
+        }
+      ]
+    }
+  ]
+}
+
+
+18/06/2023 19:55:24
+ I am a taekwondo professional who stopped training for two years. Give me a workout schedule to get back into shape in a month's time period.
+['gpt-3.5-turbo', 'Swimming', 'professional', 80, 180, 3]
+{
+  "Monday": {
+    "Warm-up": "10 minutes of freestyle swimming",
+    "Main set": "10 x 100m freestyle sprints with 30 seconds rest in between",
+    "Cool-down": "5 minutes of easy swimming"
+  },
+  "Wednesday": {
+    "Warm-up": "10 minutes of freestyle swimming",
+    "Main set": "5 x 200m freestyle sprints with 1 minute rest in between",
+    "Cool-down": "5 minutes of easy swimming"
+  },
+  "Friday": {
+    "Warm-up": "10 minutes of freestyle swimming",
+    "Main set": "3 x 400m freestyle sprints with 2 minutes rest in between",
+    "Cool-down": "5 minutes of easy swimming"
+  }
+}
+
+
+18/06/2023 20:31:24
+ I am a taekwondo professional who stopped training for two years. Give me a workout schedule to get back into shape in a month's time period.
+['gpt-3.5-turbo', 'Swimming', 'professional', 80, 180, 3]
+{
+  "trainingSchedule": [
+    {
+      "day": "Monday",
+      "workout": [
+        {
+          "exercise": "Freestyle swimming",
+          "sets": 5,
+          "reps": 10,
+          "distance": 1000
+        },
+        {
+          "exercise": "Backstroke swimming",
+          "sets": 3,
+          "reps": 10,
+          "distance": 500
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "workout": [
+        {
+          "exercise": "Breaststroke swimming",
+          "sets": 5,
+          "reps": 10,
+          "distance": 1000
+        },
+        {
+          "exercise": "Butterfly swimming",
+          "sets": 3,
+          "reps": 10,
+          "distance": 500
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "workout": [
+        {
+          "exercise": "Freestyle swimming",
+          "sets": 5,
+          "reps": 10,
+          "distance": 1000
+        },
+        {
+          "exercise": "Backstroke swimming",
+          "sets": 3,
+          "reps": 10,
+          "distance": 500
+        }
+      ]
+    }
+  ]
+}
+
+
+18/06/2023 20:34:40
+ 
+['gpt-3.5-turbo', 'Swimming', 'professional', 80, 180, 3]
+{
+  "athlete": {
+    "weight": 80,
+    "height": 180
+  },
+  "training_schedule": {
+    "day_1": {
+      "warm_up": "500m freestyle",
+      "main_set": [
+        {
+          "distance": "4 x 200m",
+          "stroke": "freestyle",
+          "pace": "1:45/100m"
+        },
+        {
+          "distance": "4 x 100m",
+          "stroke": "backstroke",
+          "pace": "1:50/100m"
+        },
+        {
+          "distance": "4 x 50m",
+          "stroke": "butterfly",
+          "pace": "2:00/100m"
+        }
+      ],
+      "cool_down": "200m easy freestyle"
+    },
+    "day_2": {
+      "warm_up": "400m freestyle",
+      "main_set": [
+        {
+          "distance": "8 x 100m",
+          "stroke": "freestyle",
+          "pace": "1:40/100m"
+        },
+        {
+          "distance": "4 x 50m",
+          "stroke": "breaststroke",
+          "pace": "2:10/100m"
+        },
+        {
+          "distance": "4 x 25m",
+          "stroke": "freestyle sprint",
+          "pace": "0:50/25m"
+        }
+      ],
+      "cool_down": "200m easy freestyle"
+    },
+    "day_3": {
+      "warm_up": "300m freestyle",
+      "main_set": [
+        {
+          "distance": "10 x 50m",
+          "stroke": "freestyle",
+          "pace": "0:45/50m"
+        },
+        {
+          "distance": "5 x 100m",
+          "stroke": "butterfly",
+          "pace": "1:50/100m"
+        },
+        {
+          "distance": "5 x 50m",
+          "stroke": "backstroke",
+          "pace": "1:00/50m"
+        }
+      ],
+      "cool_down": "200m easy freestyle"
+    }
+  }
+}
+
+
